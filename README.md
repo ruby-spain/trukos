@@ -1,5 +1,10 @@
 # Trukos
 
+# Install ZIP
+```
+sudo apt-get install zip gzip tar
+```
+
 # Download files
 ```
 apt install ruby
